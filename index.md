@@ -1,9 +1,4 @@
 ---
-title: Welcome to Edinburgh Chess Club page
+title: Round 1
+data: 2025-05-11
 ---
-
-# Pairing round 1
-
-Capablanca - Carlsen
-
-
